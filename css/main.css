@@ -1,0 +1,47 @@
+body {
+  margin: 0px;
+  background:whitesmoke;
+}
+
+article {
+  margin-left: 5%;
+  width: 80%;
+  color:darkslategray;
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif
+}
+
+
+h1 {
+  font-size: 40px;
+  color:darkblue;
+  position: center;
+  font-family: Georgia, serif;
+}
+
+header {
+  font-size: 15px;
+  font-style: italic;
+  color:midnightblue;
+  position: center;
+  font-family: Georgia, serif;
+}
+
+.story_image {
+  width: 100%;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Georgia, serif;
+  font-size: 20px;
+  color: darkblue;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: navy;
+  text-decoration-color: darkgreen;
+}
